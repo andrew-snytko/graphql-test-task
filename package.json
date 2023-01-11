@@ -29,7 +29,7 @@
     "graphql-import": "^1.0.0-beta.2",
     "graphql-middleware": "^4.0.2",
     "graphql-tools": "^4.0.7",
-    "knex": "^0.20.10",
+    "knex": "^2.4.0",
     "nodemon": "^2.0.2",
     "pg": "^7.18.1"
   }
